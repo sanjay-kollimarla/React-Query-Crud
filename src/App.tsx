@@ -1,8 +1,11 @@
 import React from 'react';
+import "./App.css";
 
 const App: React.FC = () => {
   return (
-    <div className='h-full w-full bg-amber-500'>App</div>
+    <div className="app">
+      <div className="h-full w-full bg-amber-600">App</div>
+    </div>
   )
 }
 
