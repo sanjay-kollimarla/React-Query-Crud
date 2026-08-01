@@ -2,7 +2,7 @@ import React from 'react';
 
 const App: React.FC = () => {
   return (
-    <div className='text-red-500'>App</div>
+    <div className='h-full w-full bg-amber-500'>App</div>
   )
 }
 
